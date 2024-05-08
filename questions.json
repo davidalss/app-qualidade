@@ -1,0 +1,122 @@
+[
+  {
+    "question": "Como você realiza uma inspeção visual em um produto eletrônico para identificar possíveis defeitos externos?",
+    "choice1": "Examinar cuidadosamente cada componente do produto usando uma lupa.",
+    "choice2": "Passar rapidamente os olhos sobre o produto sem prestar muita atenção aos detalhes.",
+    "choice3": "Realizar testes de resistência elétrica em todos os componentes do produto.",
+    "choice4": "Pular a inspeção visual e confiar apenas nos testes automatizados.",
+    "answer": 1
+  },
+  {
+    "question": "Quais são os parâmetros técnicos que você verifica em um aspirador de pó durante uma inspeção de qualidade?",
+    "choice1": "Pressão atmosférica e umidade relativa.",
+    "choice2": "Tensão e corrente elétrica.",
+    "choice3": "Potência de sucção, Tensão e Voltagem.",
+    "choice4": "Cor do cabo de alimentação e tamanho do plugue.",
+    "answer": 3
+  },
+  {
+    "question": "Explique como você identifica e registra defeitos em um produto durante uma inspeção de qualidade.",
+    "choice1": "Ignorar os defeitos e esperar que sejam identificados pelos clientes.",
+    "choice2": "Registrar apenas os defeitos mais óbvios e ignorar os menos visíveis.",
+    "choice3": "Identificar todos os defeitos encontrados, registrar detalhadamente e comunicar à equipe responsável pela correção.",
+    "choice4": "Registrar apenas os defeitos que forem fáceis de corrigir.",
+    "answer": 3
+  },
+  {
+    "question": "Qual é o procedimento correto para registrar uma Reclamação de Não Conformidade (RNC)?",
+    "choice1": "Não registrar a RNC para evitar complicações.",
+    "choice2": "Registrar a RNC apenas se o defeito for muito grave.",
+    "choice3": "Preencher corretamente o formulário de RNC, detalhando o problema encontrado e enviando para a equipe responsável.",
+    "choice4": "Registrar a RNC apenas verbalmente, sem documentação.",
+    "answer": 3
+  },
+  {
+    "question": "Descreva como você garantiria a conformidade dos produtos com as normas de segurança durante as inspeções, mesmo sob pressão para cumprir prazos de produção.",
+    "choice1": "Priorizar a velocidade e ignorar as normas de segurança para cumprir os prazos de produção.",
+    "choice2": "Conduzir as inspeções com cuidado e atenção aos detalhes, garantindo que todos os produtos estejam em conformidade com as normas de segurança.",
+    "choice3": "Delegar a responsabilidade pela conformidade das normas de segurança a outros membros da equipe.",
+    "choice4": "Realizar inspeções superficiais e não se preocupar com as normas de segurança durante os prazos de produção.",
+    "answer": 2
+  },
+  {
+    "question": "Como você conduz o retrabalho de um produto que não atende aos padrões de qualidade?",
+    "choice1": "Ignorar o problema e enviar o produto mesmo assim.",
+    "choice2": "Repassar o produto para outro departamento sem corrigir o defeito.",
+    "choice3": "Identificar o defeito, corrigir de acordo com os padrões de qualidade e registrar o retrabalho adequadamente.",
+    "choice4": "Registrar o produto como aceitável mesmo com o defeito.",
+    "answer": 3
+  },
+  {
+    "question": "Qual é a Política da Qualidade e qual a função dela?",
+    "choice1": "A Política da Qualidade é um conjunto de regras para punir funcionários que não atingem as metas de qualidade.",
+    "choice2": "A Política da Qualidade é um documento que descreve o compromisso da empresa com a melhoria continua, trabalha o engajamento e capacitação, visando superar as expectativas dos clientes.",
+    "choice3": "A Política da Qualidade é uma lista de procedimentos detalhados para realizar inspeções de qualidade.",
+    "choice4": "A Política da Qualidade é um relatório de reclamações de clientes sobre a qualidade dos produtos.",
+    "answer": 2
+  },
+  {
+    "question": "Descreva duas maneiras pelas quais você contribui para a melhoria contínua dos processos no setor de qualidade.",
+    "choice1": "Não oferecendo sugestões de melhoria e mantendo os processos como estão.",
+    "choice2": "Identificando oportunidades de melhoria, propondo soluções e implementando melhorias nos processos de qualidade.",
+    "choice3": "Realizando inspeções de qualidade de forma superficial e não buscando oportunidades de melhoria.",
+    "choice4": "Evitando participar de atividades relacionadas à melhoria contínua dos processos.",
+    "answer": 2
+  },
+  {
+    "question": "Como você garante que as atividades do setor de qualidade estejam alinhadas com os objetivos estratégicos da empresa?",
+    "choice1": "Não se preocupando com os objetivos estratégicos da empresa e focando apenas nas atividades diárias.",
+    "choice2": "Mantendo-se atualizado sobre os objetivos estratégicos da empresa e garantindo que as atividades do setor de qualidade contribuam para alcançar esses objetivos.",
+    "choice3": "Delegando essa responsabilidade para outros membros da equipe.",
+    "choice4": "Realizando apenas as tarefas atribuídas sem considerar a estratégia da empresa.",
+    "answer": 2
+  },
+  {
+    "question": "Oque significa EPI e EPC de 3 exemplos de cada?",
+    "choice1": "EPI: Equipamento de Proteção Individual - luvas, capacete, óculos de proteção. EPC: Equipamento de Proteção Coletiva - extintor de incêndio, sinalização de segurança, corrimão.",
+    "choice2": "EPI: Equipamento de Proteção Individual - celular, laptop, tablet. EPC: Equipamento de Proteção Coletiva - caneta, papel, grampeador.",
+    "choice3": "EPI: Equipamento de Proteção Individual - cadeira, mesa, computador. EPC: Equipamento de Proteção Coletiva - café, copo, açúcar.",
+    "choice4": "EPI: Equipamento de Proteção Individual - luvas, capacetes, cadeira ergonomica. EPC: Equipamento de Proteção Coletiva - fita zebrada, extintor, corrimão.",
+    "answer": 1
+  },
+  {
+    "question": "Como você identifica e relata condições de trabalho inseguras durante suas atividades diárias?",
+    "choice1": "Ignorando as condições de trabalho inseguras e continuando as atividades como de costume.",
+    "choice2": "Identificando as condições de trabalho inseguras, relatando imediatamente ao superior responsável e sugerindo medidas corretivas.",
+    "choice3": "Esperando que outra pessoa identifique as condições de trabalho inseguras e tome as medidas necessárias.",
+    "choice4": "Esperando que as condições de trabalho inseguras se resolvam por conta própria.",
+    "answer": 2
+  },
+  {
+    "question": "Descreva brevemente o que é o programa 5S falando 3 dos seus princípios e como você aplica seus princípios no ambiente de trabalho.",
+    "choice1": "O programa 5S é um conjunto de cinco regras de segurança no trabalho. Os três princípios são: Seiri (organização), Seiton (ordem) e Seiketsu (limpeza). Aplicamos esses princípios mantendo o local de trabalho limpo e organizado, identificando e eliminando desperdícios e mantendo tudo em seu devido lugar.",
+    "choice2": "O programa 5S é um conjunto de cinco regras de qualidade no trabalho. Os três princípios são: Sort, Systematize e Shred. Aplicamos esses princípios mantendo o local de trabalho limpo e organizado, identificando e eliminando desperdícios e mantendo tudo em seu devido lugar.",
+    "choice3": "O programa 5S é um conjunto de cinco regras de organização no trabalho. Os três princípios são: Segregate, Sort e Standardize. Aplicamos esses princípios mantendo o local de trabalho limpo e organizado, identificando e eliminando desperdícios e mantendo tudo em seu devido lugar.",
+    "choice4": "O programa 5S é um conjunto de cinco regras de limpeza no trabalho. Os três princípios são: Sort, Systematize e Shred. Aplicamos esses princípios mantendo o local de trabalho limpo e organizado, identificando e eliminando desperdícios e mantendo tudo em seu devido lugar.",
+    "answer": 1
+  },
+  {
+    "question": "Quais equipamentos você utiliza no processo de inspeção?",
+    "choice1": "Um micro-ondas e uma geladeira.",
+    "choice2": "Um ventilador e uma máquina de café.",
+    "choice3": "Uma balança e um medidor de pH.",
+    "choice4": "Um medidor de Pressão e medidor de parametrôs elétricos.",
+    "answer": 4
+  },
+  {
+    "question": "Como você mantém registros precisos das atividades realizadas durante as inspeções de qualidade?",
+    "choice1": "Memorizando todas as informações sem anotá-las.",
+    "choice2": "Escrevendo as informações em pedaços de papel soltos.",
+    "choice3": "Registrando todas as atividades e resultados em formulários ou sistemas de registro apropriados.",
+    "choice4": "Deixando de registrar as atividades e resultados das inspeções.",
+    "answer": 3
+  },
+  {
+    "question": "Por que é importante seguir as normas de segurança do trabalho no ambiente corporativo?",
+    "choice1": "Porque as normas de segurança do trabalho são opcionais e não têm importância real.",
+    "choice2": "Porque seguir as normas de segurança do trabalho pode garantir um ambiente de trabalho seguro e proteger a saúde e a segurança dos funcionários.",
+    "choice3": "Porque as normas de segurança do trabalho são apenas uma formalidade e não têm impacto real no ambiente de trabalho.",
+    "choice4": "Porque seguir as normas de segurança do trabalho pode prejudicar a produtividade e causar atrasos na produção.",
+    "answer": 2
+  }
+]
